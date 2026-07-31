@@ -1,0 +1,3 @@
+# Ignora tudo dentro da pasta Resultados
+Resultados/*
+!Resultados/.gitkeep
